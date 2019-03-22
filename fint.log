@@ -1,0 +1,12 @@
+Log file for fint program
+Start at Sat Jul  7 15:07:48 2018 
+Mode = d 
+target directory = /root/programming/BigProject/NeutronBrain 
+Sentence to find = OWS 
+scanning /root/programming/BigProject/NeutronBrain/changeanyindir.py
+scanning /root/programming/BigProject/NeutronBrain/fint.log
+scanning /root/programming/BigProject/NeutronBrain/__main__.py
+result:(finish)
+/root/programming/BigProject/NeutronBrain/fint.log
+/root/programming/BigProject/NeutronBrain/__main__.py
+end at Sat Jul  7 15:07:48 2018

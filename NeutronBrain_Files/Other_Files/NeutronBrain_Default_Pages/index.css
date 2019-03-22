@@ -1,0 +1,13 @@
+html{
+	background-color: #000000;
+}
+.login{
+	background-color:  #0099ff;
+	width: 25%;
+	border-radius: 5%;
+	margin-left: 37%;
+	margin-right: 37%;
+}
+h1{
+	color: white;
+}

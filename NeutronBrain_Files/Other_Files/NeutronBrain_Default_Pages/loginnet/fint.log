@@ -1,0 +1,14 @@
+Log file for fint program
+Start at Sun Jan 21 14:07:57 2018 
+Mode = d 
+target directory = /root/programming/python_saya/OWS/post_page/loginnet 
+Sentence to find = hell1.jp 
+scanning /root/programming/python_saya/OWS/post_page/loginnet/pic0.jpg
+error while scanning /root/programming/python_saya/OWS/post_page/loginnet/pic0.jpg
+scanning /root/programming/python_saya/OWS/post_page/loginnet/loginnet.css
+scanning /root/programming/python_saya/OWS/post_page/loginnet/fint.log
+scanning /root/programming/python_saya/OWS/post_page/loginnet/loginnet.html
+result:(finish)
+/root/programming/python_saya/OWS/post_page/loginnet/loginnet.css
+/root/programming/python_saya/OWS/post_page/loginnet/fint.log
+end at Sun Jan 21 14:07:57 2018
